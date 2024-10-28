@@ -1,0 +1,4 @@
+Um analista do mercado acionário coletou os retornos mensais de duas
+ações que pretende indicar aos seus clientes. Calcule as estatísticas
+descritivas para as duas variáveis, incluindo o coeficiente de correlação entre
+os retornos.
